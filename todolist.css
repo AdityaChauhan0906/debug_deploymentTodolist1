@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(183, 248, 248);
+    font-family: 'Poppins', sans-serif;
+ }
+ .container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #a0ea0b;
+    margin-left: 33%;
+    margin-top: 5px;
+    border: 2px;
+    border-radius: 30px;
+ }
+ .DDT{
+   color: blueviolet;
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 64, 145);
+    outline: none;
+    font-size: 19px;
+   border-radius: 10px;
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(4, 29, 29);
+    color: white;
+    border: 1px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 50px;
+    font-size: 20px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(250, 182, 34);
+    color: rgb(7, 6, 6);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+    border: 2px;
+    border-radius: 10px;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
